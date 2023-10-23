@@ -1,0 +1,2 @@
+1. Crear carpeta part1
+2. Ejecutar comando en terminal: npx create-react-app part1
